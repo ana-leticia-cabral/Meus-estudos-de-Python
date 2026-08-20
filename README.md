@@ -1,2 +1,5 @@
-# Meus estudos de Python
- Este repositório tem como objetivo reunir alguns exercícios que realizei durante meus estudos de Python. Esses exercícios estão reunidos aqui para que eu possa revisá-los sempre que precisar, especialmente em situações semelhantes.
+# Meus Estudos de Python
+
+Este repositório reúne exercícios e scripts desenvolvidos durante meus estudos de Python, com foco em análise de dados.
+
+O objetivo é centralizar esse material para facilitar revisões futuras, especialmente em situações semelhantes às já resolvidas aqui.
