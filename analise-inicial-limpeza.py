@@ -24,7 +24,8 @@ def caracteristicas_dados(df):
 
 
 	valores_nulos = df.isnull().sum() / len(df)
-	print(f"Proporção de valores nulos por coluna: {valores_nulos}")
+	print("Proporção de valores nulos por coluna:")
+    print(valores_nulos)
     
 
     duplicatas = df.duplicated().sum()
