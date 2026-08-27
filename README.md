@@ -1,5 +1,3 @@
-# Meus Estudos de Python
+# Estudos de Python para Análise de Dados
 
-Este repositório reúne exercícios e scripts desenvolvidos durante meus estudos de Python, com foco em análise de dados.
-
-O objetivo é centralizar esse material para facilitar revisões futuras, especialmente em situações semelhantes às já resolvidas aqui.
+Repositório com exercícios e scripts desenvolvidos durante meus estudos de Python aplicado à análise de dados, utilizando bibliotecas como Pandas e NumPy. O objetivo é centralizar esse material como referência para revisões futuras e apoio na resolução de problemas semelhantes.
